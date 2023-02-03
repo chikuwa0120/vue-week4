@@ -1,6 +1,6 @@
 export default {
     props:['pages', 'getProducts'],
-    template:`{{ pages }}
+    template:`
     <nav aria-label="Page navigation example">
     <ul class="pagination">
       <li class="page-item"
